@@ -1,2 +1,0 @@
-https://www.kaggle.com/datasets/omidbaghchehsaraei/cern-subatomic-particles-dataset
-https://opendata.cern.ch/record/17
