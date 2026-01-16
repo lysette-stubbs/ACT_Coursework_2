@@ -35,21 +35,28 @@ __The Problem:__
 
 Using the properties from columns 4-21, determine whether the resulting particle will be a J/Psi meson or an Upsilon meson.
 
+This is a binary classification problem using a tabular dataset.
+
 <br>
 
 ## Approach 1 - Traditional Machine Learning Techniques
 
-
+Traditional ML technique chosen: Decision Tree
 
 <br>
 
 ## Approach 2 - Neural Networks
 
-
+Neural network built using PyTorch with 2 layers, 64 neurons per layer.
 
 
 <br>
 
 ## Research Question - Investigate Changes in Neural Network Performance
 
+Investigating the effects of changes in:
 
+i) amount of training data
+ii) balance of classes
+
+on the performance of the neural network.
